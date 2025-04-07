@@ -6,6 +6,7 @@ It will look something like this:
 
 ![image](https://github.com/user-attachments/assets/c7d19a35-742e-47bc-a17b-fc2d553a0a32)
 
+PS. if you want to use this code, you need to make an .env file and put your own bot token in there.
 
 ## Command: `!dot`
 
